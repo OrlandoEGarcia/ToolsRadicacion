@@ -1,0 +1,271 @@
+13:27
+2025-02-12
+Fecha:
+2025000434298
+NÚMERO DE AUTORIZACIÓN:
+Hora:
+ESS118
+CÓDIGO:
+EMSSANAR S.A.S.
+ENTIDAD RESPONSABLE DEL PAGO:
+ANEXO TÉCNICO 1
+AUTORIZACIÓN DE SERVICIOS Y TECNOLOGÍAS EN SALUD
+MINISTERIO DE LA PROTECCIÓN SOCIAL
+Lazos
+Nombre prestador:
+RED MEDICRON IPS - COOPERATIVA DE SERVICIOS INTEGRALES DE SALUD - OBRERO -
+PASTO ( NARIÑO )
+NIT/CC:
+900077584
+Código:
+520010121319
+Dirección prestador:
+KR 26 # 9 - 23
+Teléfono:
+(602)7380070
+Departamento:
+NARIÑO
+52
+Municipio:
+001
+PASTO
+Contacto Emergencia:
+Telefono:
+null - null
+DATOS DEL PACIENTE
+ORTIZ
+DE VILLARREAL
+LEONOR
+FLOR DE MARIA
+1er Apellido
+2do Apellido
+1er Nombre
+2do Nombre
+Tipo Documento de Identificación
+Registro civil
+Tarjeta de identidad
+X
+Cédula de ciudadanía
+Cédula de extranjería
+Pasaporte
+Adulto sin identificación
+Menor sin identificación
+Permiso especial de permanencia
+27051088
+Número documento de identificación
+1923-11-06
+Fecha de nacimiento:
+Régimen afiliación:
+SUBSIDIADO
+Dirección de residencia habitual:
+Teléfono:
+Mz H Cs 07
+Departamento: NARIÑO
+52
+Municipio:
+PASTO
+001
+Teléfono celular:
+3148917822
+Correo electrónico:
+arortizma@hotmail.com
+Dir. Alternativa atención:
+SERVICIOS AUTORIZADOS
+Ubicación del paciente al momento de la solicitud de autorización:
+Consulta externa
+Urgencias
+Hospitalización
+Servicio
+Cama
+X
+Manejo integral según guía de:
+DESCRIPCIÓN
+FINALIDAD
+CANTIDAD
+MODALIDAD
+CÓDIGO
+GRUPO SERVICIO
+CREATININA EN SUERO U OTROS FLUIDOS
+Laboratorio clinico
+903895
+1
+Apoyo diagnóstico y
+complementación
+terapéutica
+Intramural
+Diagnostico
+HORMONA PARATIROIDEA MOLECULA INTACTA
+Laboratorio clinico
+904912
+1
+Apoyo diagnóstico y
+complementación
+terapéutica
+Intramural
+Diagnostico
+MICROALBUMINURIA AUTOMATIZADA EN ORINA
+PARCIAL
+Laboratorio clinico
+903026
+1
+Apoyo diagnóstico y
+complementación
+terapéutica
+Intramural
+Diagnostico
+CALCIO SEMIAUTOMATIZADO
+Laboratorio clinico
+903810
+1
+Apoyo diagnóstico y
+complementación
+terapéutica
+Intramural
+Diagnostico
+CONSULTA DE PRIMERA VEZ POR FISIOTERAPIA
+Nefrologia
+890211
+1
+Consulta externa
+Intramural
+Tratamiento
+FOSFORO EN SUERO U OTROS FLUIDOS
+Laboratorio clinico
+903835
+1
+Apoyo diagnóstico y
+complementación
+terapéutica
+Intramural
+Diagnostico
+CONSULTA DE CONTROL O DE SEGUIMIENTO POR
+TRABAJO SOCIAL. -- INCY : AQUELLA REALIZADA
+AL INDIVIDUO - A LA PAREJA O A LA FAMILIA -
+METODOS O TECNICAS TERAPEUTICAS
+APLICADAS COMO LA TERAPIA FAMILIAR ENTRE
+OTRAS
+Nefrologia
+890309
+1
+Consulta externa
+Intramural
+Tratamiento
+CONSULTA DE CONTROL O DE SEGUIMIENTO POR
+ESPECIALISTA EN NEFROLOGIA
+Nefrologia
+890368
+1
+Consulta externa
+Intramural
+Tratamiento
+SERVICIO
+Fecha de impresión: 2025-02-18 Hora: 08:23 a. m.  Usuario: NEFRO IPS OBRERO UNO-22143 Original No: 2
+
+13:27
+2025-02-12
+Fecha:
+2025000434298
+NÚMERO DE AUTORIZACIÓN:
+Hora:
+ESS118
+CÓDIGO:
+EMSSANAR S.A.S.
+ENTIDAD RESPONSABLE DEL PAGO:
+ANEXO TÉCNICO 1
+AUTORIZACIÓN DE SERVICIOS Y TECNOLOGÍAS EN SALUD
+MINISTERIO DE LA PROTECCIÓN SOCIAL
+Lazos
+CONSULTA DE PRIMERA VEZ POR PSICOLOGIA
+Nefrologia
+890208
+1
+Consulta externa
+Intramural
+Tratamiento
+CONSULTA DE CONTROL O DE SEGUIMIENTO POR
+ENFERMERIA
+Nefrologia
+890305
+1
+Consulta externa
+Intramural
+Tratamiento
+HEMOGLOBINA
+Laboratorio clinico
+902213
+1
+Apoyo diagnóstico y
+complementación
+terapéutica
+Intramural
+Diagnostico
+CREATININA EN ORINA PARCIAL
+Laboratorio clinico
+903876
+1
+Apoyo diagnóstico y
+complementación
+terapéutica
+Intramural
+Diagnostico
+CONSULTA DE CONTROL O DE SEGUIMIENTO POR
+NUTRICION Y DIETETICA
+Nefrologia
+890306
+1
+Consulta externa
+Intramural
+Tratamiento
+Notas auditor: 903835, 890305, 890309, 890208, 903810, 904912, 903895, 903026, 902213, 903876, 890368, 890306, 890211 SUJETO A AUDITORIA
+MEDICA. VALIDO SOLO PARA EVENTOS POS. SE REALIZARÁ DESCUENTO SI CORRESPONDE A PGP O CAPITA
+Justificación clínica: Paciente con diagnosticos de: - Enfermedad renal cronica estadio g4 - A1, tfge 22 ml/min por c-g y tfge 42.5 ml/min por ckd-epi, etiología
+probable nefroangioesclerosis hipertensiva vs envejecimiento renal * ERC confirmada con cumplimiento de algoritmo primera creatinina 1.3 mg/dl de fecha 19-
+01-2017 con TFG 15.3, segunda creatinina 1.1 mg/dl de fecha 09-05-2017 con TFG 24.7 diferencia de 110 días estadio 4. * Cociente albuminuria/creatinuria 8.7
+mg/g (07.2024). * Sin anemia. * Metabolismo mineral oseo en metas para estadio renal. - Hipertension arterial grado I, controlada meta PA menor a 140/80
+mmHg. - Alto riesgo cardiovascular. * Ateroesclerosis difusa de miembros inferiores, sin seguimiento por cirugia vascular. - Peso insuficiente para la edad. -
+Eutiroidea. - Hipoacusia, pendiente valoracion por otorrinolaringologia. En tratamiento farmacologico con losartan 50 mg cada 12 horas, acetaminofen 500 mg
+cada 8 horas. Presenta buena adherencia a tratamiento farmacologico, niega efectos secundarios, no intolerancia. Revisión por sistemas: Niega dolor toracico,
+sin disnea, sin tos, no edemas, no ortopnea, no disnea paroxistica nocturna. Sin fiebre, sin dificultad respiratoria. Sin claudicacion intermitente o lesiones tipo
+ulcera. No caidas, no sincope. No sintomas urinarios. No sangrados. No hospitalizaciones recientes. Niega eventos cardiovasculares o cerebrales. Refiere
+seguir indicaciones de controles previos, sigue dieta baja en sal, harinas, grasa y azúcar, no realiza ejercicio, no tiene actividades que le permite el manejo del
+stress, niega alteración del estado de animo, duerme el tiempo necesario, con sueño reparador, asiste oportunamente a sus controles programados. Tamizaje
+para TBC ( niega presencia de tos, fiebre, sudoracion nocturna, perdida de peso) .
+Porcentaje del valor de los sevicios de esta autorización a pagar por la entidad responsable del pago
+100.00 %
+Semanas de afiliación del paciente a la solicitud de la autorización
+Recaudo del prestador
+Concepto
+Valor a pagar por el usuario
+Porcentaje (%)
+Valor máximo (Tope) en pesos
+Acumulado copago en el año
+Cuota moderadora
+Copago
+Cuota de recuperación
+Otro. Cuál
+Centro de costo
+724
+Exceptuado cuota moderadora / Copago
+X
+NÚMERO DE SOLICITUD DE
+ORIGEN:
+Fecha:
+Hora:
+36265732
+2025-02-12
+13:27
+PAGOS COMPARTIDOS
+Nariño - Putumayo 2-733 68 89
+Cauca - Valle 2-385 02 12
+Línea gratuita nacional 01-8000-129393
+Teléfono celular:
+Autorizador  Emssanar
+Cargo o actividad:
+Teléfonos:
+ AUTORIZADOR SISTEMA
+Nombre de quien autoriza:
+Sujeto a auditoría médica
+INFORMACIÓN DE LA PERSONA QUE AUTORIZA
+Caducidad de la Autorización 180 días
+Fecha de impresión: 2025-02-18 Hora: 08:23 a. m.  Usuario: NEFRO IPS OBRERO UNO-22143 Original No: 2
+
